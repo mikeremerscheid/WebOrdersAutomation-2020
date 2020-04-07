@@ -15,7 +15,6 @@ import java.util.Date;
 import java.util.List;
 
 public class BrowserUtilities {
-
     /**
      * Pause test for some time
      *
